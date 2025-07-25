@@ -32,7 +32,7 @@ import airesume2 from "./assets/airesume2.png";
 export const menu = [
   { name: "About" },
   { name: "Services" },
-  { name: "Skill" },
+  { name: "Skills" },
   { name: "Projects" },
   { name: "Contact" },
 ];
@@ -241,24 +241,16 @@ export const skills = [
 export const contactInfo = [
   {
     name: "Email",
-    value: "tusharshinde2250@gmail.com",
-    link: "tusharshinde2250@gmail.com",
+    value: "lantanat62@gmail.com",
+    link: "lantanat62@gmail.com",
     icon: emailicon,
     btnIcon: <MdOutlineEmail />,
     color: "rgb(56,115,205)",
   },
   {
-    name: "Messenger",
-    value: "Tushar Shinde",
-    link: "http://m.me/profile?id=profile-i",
-    icon: messengericon,
-    btnIcon: <RiMessengerLine />,
-    color: "rgb(139,74,251)",
-  },
-  {
     name: "WhatsApp",
-    value: "+917350997576",
-    link: "https://api.whatsapp.com/send?phone=+917350997576",
+    value: "+2348132370551",
+    link: "https://api.whatsapp.com/send?phone=+2348132370551",
     icon: whatsappicon,
     btnIcon: <BsWhatsapp />,
     color: "rgb(38,234,112)",
@@ -268,26 +260,12 @@ export const socialHandles = [
   {
     name: "GitHub",
     icon: <FaGithub size={24} />,
-    link: "https://github.com/Tushar-Shinde31",
+    link: "https://github.com/LANTANA01",
   },
   {
     name: "LinkedIn",
     icon: <FaLinkedin size={24} />,
-    link: "https://www.linkedin.com/in/tushar-shinde-262335257/",
-  },
-  {
-    name: "Instagram",
-    icon: <FaInstagram size={24} />,
-    link: "https://instagram.com/tusharryarr",
-  },
-  {
-    name: "Leetcode",
-    icon: <SiLeetcode size={24} />,
-    link: "https://leetcode.com/u/Tushar-shinde31/",
-  },
-  {
-    name: "Twitter",
-    icon: <FaTwitter size={24} />,
-    link: "https://x.com/tushaarizz",
-  },
+    link: "linkedin.com/in/lantana-tijani-405328200/",
+  }
+ 
 ];

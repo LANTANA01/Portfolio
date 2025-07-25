@@ -24,10 +24,10 @@ const Footer = () => {
       <SocialHandles/>
       <div className='copyright'>
         <h3>Copyright &copy; All right reserved - 2025 </h3>
-        <p className='text__muted'>Built with love by Tushar Shinde</p>
+        <p className='text__muted'>Built with love by Lantana Tijani</p>
       </div>
       <div className='base__logo'>
-        <h1 className='full__name shine'>Tushar Shinde</h1>
+        <h1 className='full__name shine'>Lantana Tijani</h1>
       </div>
     </div>
    </footer>

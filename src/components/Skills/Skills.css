@@ -15,10 +15,10 @@
     font-size: 3.5rem;
     font-weight: bold;
     text-align: center;
-    background: linear-gradient(to right, #60a5fa, #a78bfa);
+    /* background: linear-gradient(to right, #60a5fa, #a78bfa); */
     -webkit-background-clip: text;
     background-clip: text;
-    color: transparent;
+    /* color: transparent; */
     margin-bottom: 4rem;
     text-transform: uppercase;
     letter-spacing: 0.1em;

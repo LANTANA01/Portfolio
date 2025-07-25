@@ -1,11 +1,11 @@
 .breath__circle {
   --size: 550px;
   --duration: 2s;
-  --logo-color: grey;
+  --logo-color: rgb(107, 85, 157);
   --background: linear-gradient(
     0deg,
-    rgba(50, 50, 50, 0.2) 0%,
-    rgba(100, 100, 100, 0.2) 100%
+    rgba(34, 15, 207, 0.2) 0%,
+    rgba(34, 15, 207, 0.2) 100%
   );
   height: var(--size);
   width: var(--size);
@@ -14,11 +14,11 @@
 
 .breath__circle .breath {
   position: absolute;
-  background: rgba(100, 100, 100, 0.15);
+  background: rgba(35, 10, 223, 0.15);
   background: var(--background);
   border-radius: 50%;
   border-top: 1px solid rgba(100, 100, 100, 1);
-  box-shadow: rgba(0, 0, 0, 0.3) 0px 10px 10px -0px;
+  box-shadow: rgba(35, 10, 223, 0.15) 0px 10px 10px -0px;
   backdrop-filter: blur(5px);
   animation: ripple var(--duration) infinite ease-in-out;
 }

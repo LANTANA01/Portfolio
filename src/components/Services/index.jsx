@@ -6,7 +6,7 @@ import { services } from '../../data'
 const Services = () => {
   return (
     <section id="services">
-      <h2 className="section__title">
+      <h2 className="shine section__title">
         Serv<span>ices</span>
       </h2>
       <div className="services__container">

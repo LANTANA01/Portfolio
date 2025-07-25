@@ -68,7 +68,7 @@ const Contact = () => {
                   return;
                 }
 
-                const mailtoLink = `mailto:tusharshinde2250@gmail.com?subject=Contact from ${encodeURIComponent(name)}&body=${encodeURIComponent(message)}%0D%0A%0D%0AFrom: ${encodeURIComponent(email)}`;
+                const mailtoLink = `mailto:lantanat62@gmail.com?subject=Contact from ${encodeURIComponent(name)}&body=${encodeURIComponent(message)}%0D%0A%0D%0AFrom: ${encodeURIComponent(email)}`;
                 window.location.href = mailtoLink;
               }}
             >

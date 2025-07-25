@@ -109,7 +109,7 @@ const Skills = () => {
   return (
     <section id="skills">
       <div className="skills__container">
-        <h1 className="skills__title">My Skills</h1>
+        <h1 className="shine skills__title">My Skills</h1>
         <div className="skill__grid">
           {skillCategories.map((category, index) => (
             <SkillCard

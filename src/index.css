@@ -162,15 +162,15 @@ img {
     -40deg,
     transparent 0%,
     transparent 40%,
-    #fff 50%,
+    #ffffff 50%,
     transparent 60%,
-    transparent 100%
+    transparent 50%
   );
   background-repeat: no-repeat;
   -webkit-background-clip: text;
   background-clip: text;
   background-size: 50px;
-  animation: zezzz 5s infinite;
+  animation: zezzz 10s infinite;
 }
 @keyframes zezzz {
   0%,

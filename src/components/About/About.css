@@ -1,13 +1,15 @@
 #about{
     position: relative;
-    margin-top: 60px;
+    margin-top: 30px;
+    text-align: justify;
 }
 #about .section__wrapper{
     display: grid;
-    grid-template-columns: 300px auto;
+    grid-template-columns: 200px auto;
     gap: 40px;
     border-radius: 20px;
     position: relative;
+    padding-top: 0px;
 }
 #about .hole{
     position: absolute;
@@ -83,4 +85,4 @@
         padding: 0px;
         padding-bottom: 40px;
     }
-}a
+}

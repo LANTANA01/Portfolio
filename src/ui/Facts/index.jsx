@@ -11,8 +11,8 @@ const Facts = () => {
     useEffect(() => {
         const timeoutId = setTimeout(() => {
             setExperience(2);
-            setProjects(50);
-            setClients(300);
+            setProjects(15);
+            setClients(30);
         }, 3000);
         return () => clearTimeout(timeoutId);
     }, []);
