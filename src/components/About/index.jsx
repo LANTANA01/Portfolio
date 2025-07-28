@@ -27,9 +27,9 @@ const About = () => {
           <CardUi className="card__ui-item" color={"var(--color-primary)"}/>
         </div>
         <div className="column right-column">
-          <h2 className='shine'>About Me</h2>
+          <h2 className='shine'>MY BIO.</h2>
           <h1 className='title'>
-            I am <span className='color__primary'>Lantant Tijani</span>
+            Hi, I am <span className='color__primary'>Lantant</span>
           </h1>
           <p className='text__muted description'>
             A cloud engineer with a strong software engineering foundation and a passion for transforming businesses through scalable cloud solutions. I've transitioned from software development to cloud architecture, successfully migrated over 50 enterprise applications to the cloud reducing operational costs by an average of 40%, and I hold multiple AWS and Azure certifications that keep me at the forefront of cloud innovation.
