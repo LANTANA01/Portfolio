@@ -32,10 +32,14 @@ const About = () => {
             I am <span className='color__primary'>Lantant Tijani</span>
           </h1>
           <p className='text__muted description'>
-          An AWS Cloud Solutions Architect at CloudTech Solutions, where I specialize in designing scalable, cost-effective cloud infrastructures for enterprise clients. With a passion for bridging the gap between traditional IT systems and modern cloud technologies, I aim to become a recognized thought leader in cloud transformation strategies while helping organizations achieve their digital modernization goals.
-My expertise is built on a foundation of impressive achievements that demonstrate my technical prowess and leadership capabilities. I successfully led the migration of a Fortune 500 manufacturing company's entire IT infrastructure to AWS, resulting in a 40% reduction in operational costs and 99.9% system uptime. Additionally, I earned three AWS certifications—Cloud Practitioner, Solutions Architect Associate, and Developer Associate—within an eight-month period while maintaining my full-time responsibilities. My innovative approach to automated deployment pipelines has been adopted across my organization, reducing deployment time by 60% and significantly improving system reliability.
-Currently focused on expanding my influence in the cloud computing space, I regularly contribute to industry publications and speak at technology conferences about sustainable cloud practices and cost optimization strategies. I am committed to mentoring the next generation of cloud professionals while continuing to drive innovation in enterprise cloud solutions.
-</p>
+            A cloud engineer with a strong software engineering foundation and a passion for transforming businesses through scalable cloud solutions. I've transitioned from software development to cloud architecture, successfully migrated over 50 enterprise applications to the cloud reducing operational costs by an average of 40%, and I hold multiple AWS and Azure certifications that keep me at the forefront of cloud innovation.
+
+            My expertise spans **cloud architecture design, DevOps automation, and cost optimization** – the three pillars that drive successful digital transformation. What sets me apart is my unique software engineering background combined with deep cloud expertise; I understand how applications work from the ground up, allowing me to architect cloud solutions that not only scale efficiently but are also optimally designed for performance and maintainability.
+
+            When you work with me, you're not just getting technical implementation – you're getting a partner who eliminates the complexity of cloud migration, reduces your infrastructure costs, and ensures your systems are scalable, secure, and future-ready. This means you can focus on growing your business while I handle the technical heavy lifting.
+
+            I'd love to discuss how my cloud engineering expertise can help accelerate your digital transformation and deliver the scalable, cost-effective infrastructure your business deserves.
+          </p>
         </div>
        </div>
     </section>
