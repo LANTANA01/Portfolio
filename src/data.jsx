@@ -44,11 +44,11 @@ export const services = [
     description: `I specialize in building responsive, scalable web applications using modern technologies like React.js, Next.js, Node.js, and MongoDB. From frontend to backend, I deliver seamless user experiences and efficient system architectures.`,
   },
   {
-    title: " AI & Machine Learning Solutions",
+    title: " AI Solutions",
     icon: <FaCodeCompare />,
     color: "blueviolet",
     colorRGB: "138, 43, 226",
-    description: `I leverage machine learning to develop data-driven applications. My experience includes projects like sentiment analysis, blood group detection using fingerprints, and AI-powered tools, delivering impactful insights and automating processes.`,
+    description: `I leverage AI to develop data-driven applications. My experience includes projects like sentiment analysis, blood group detection using fingerprints, and AI-powered tools, delivering impactful insights and automating processes.`,
   },
   {
     title: " Cloud Integration & Optimization",
@@ -63,9 +63,9 @@ export const projects = [
   {
     title: "AI Resume & Cover Letter Builder",
     image: airesume2,
-    category: "AI based Web App",
-    description: `The AI Resume & Cover Letter Builder is a web app that helps users generate professional, ATS-friendly resumes and cover letters effortlessly using Gemini API. Built with ReactJS, TailwindCSS, and Firebase Authentication, it offers AI-powered content generation, customizable templates, and secure user authentication. Users can edit, preview, and download their documents seamlessly. 🚀`,
-    demoLink: "https://github.com/Tushar-Shinde31/AI-Resume-and-Cover-Letter-Builder",
+    // category: "AI based Web App",
+    // description: `The AI Resume & Cover Letter Builder is a web app that helps users generate professional, ATS-friendly resumes and cover letters effortlessly using Gemini API. Built with ReactJS, TailwindCSS, and Firebase Authentication, it offers AI-powered content generation, customizable templates, and secure user authentication. Users can edit, preview, and download their documents seamlessly. 🚀`,
+    // demoLink: "https://github.com/Tushar-Shinde31/AI-Resume-and-Cover-Letter-Builder",
     stacks: [
       {
         name: "XD",
@@ -76,9 +76,9 @@ export const projects = [
   {
     title: "Elocate",
     image: elocate2,
-    category: "Next.js Web App",
-    description: `ELocate is an eco-friendly platform built with Next.js, Express, and MongoDB that connects users with e-waste recycling facilities, offering booking options, user authentication, educational content, and data analytics to promote sustainable e-waste management.`,
-    demoLink: "https://github.com/Tushar-Shinde31/Elocate",
+    // category: "Next.js Web App",
+    // description: `ELocate is an eco-friendly platform built with Next.js, Express, and MongoDB that connects users with e-waste recycling facilities, offering booking options, user authentication, educational content, and data analytics to promote sustainable e-waste management.`,
+    // demoLink: "https://github.com/Tushar-Shinde31/Elocate",
     stacks: [
       {
         name: "ReactJs",
@@ -97,9 +97,9 @@ export const projects = [
   {
     title: "TravelWorld",
     image: travel,
-    category: "MERN Stack Web App",
-    description: `Created Travel-World, a MERN-based Tours & Travels web app. Designed a user-friendly interface for seamless tour booking and hotel selection, improving user experience and conversion rates. Improved load speed to 1.1-second by optimizing Express.js API and MongoDB, increasing user retention by 20%.`,
-    demoLink: "https://github.com/Tushar-Shinde31/TravelWorld",
+    // category: "MERN Stack Web App",
+    // description: `Created Travel-World, a MERN-based Tours & Travels web app. Designed a user-friendly interface for seamless tour booking and hotel selection, improving user experience and conversion rates. Improved load speed to 1.1-second by optimizing Express.js API and MongoDB, increasing user retention by 20%.`,
+    // demoLink: "https://github.com/Tushar-Shinde31/TravelWorld",
     stacks: [
       {
         name: "ReactJs",
@@ -118,9 +118,9 @@ export const projects = [
   {
     title: "Real Estate App",
     image: realestate,
-    category: "React Native App",
-    description: `Developed a real estate app with React Native, Expo, and Firebase. Implemented a user-friendly interface for property search, user authentication, and secure transactions. The app provides real-time property listings, user reviews, and location-based search functionality.`,
-    demoLink: "https://github.com/Tushar-Shinde31/Real_Estate_App_React_Native-",
+    // category: "React Native App",
+    // description: `Developed a real estate app with React Native, Expo, and Firebase. Implemented a user-friendly interface for property search, user authentication, and secure transactions. The app provides real-time property listings, user reviews, and location-based search functionality.`,
+    // demoLink: "https://github.com/Tushar-Shinde31/Real_Estate_App_React_Native-",
     stacks: [
       {
         name: "React Native",
@@ -139,9 +139,9 @@ export const projects = [
   {
     title: "Blood Group Detection using Fingerprints",
     image: blood,
-    category: "Machine Learning Model and Flask Web App",
-    description: `The Blood Group Detection Using Fingerprint (BGDUF) project is an AI-powered system that predicts blood groups based on fingerprint patterns. It features a Flask-based frontend and integrates a machine learning model trained on multiple datasets, with the best-performing model achieving 89% accuracy.`,
-    demoLink: "https://github.com/Tushar-Shinde31/Blood_Group_Detection_Using_Fingerprint-Flask-",
+    // category: "Machine Learning Model and Flask Web App",
+    // description: `The Blood Group Detection Using Fingerprint (BGDUF) project is an AI-powered system that predicts blood groups based on fingerprint patterns. It features a Flask-based frontend and integrates a machine learning model trained on multiple datasets, with the best-performing model achieving 89% accuracy.`,
+    // demoLink: "https://github.com/Tushar-Shinde31/Blood_Group_Detection_Using_Fingerprint-Flask-",
     stacks: [
       {
         name: "Figma",
@@ -152,9 +152,9 @@ export const projects = [
   {
     title: "DSA based Melody Manager",
     image: dsa,
-    category: "C++ based Console App",
-    description: `Designed and implemented a dynamic Playlist Management System using doubly linked lists, enabling song addition, deletion, searching, and playback. Integrated file I/O for persistent data storage and implemented a stack-based history for recently played songs, along with sorting for better playlist organization.`,
-    demoLink: "https://github.com/Tushar-Shinde31/Music-Player-in-DSA",
+    // category: "C++ based Console App",
+    // description: `Designed and implemented a dynamic Playlist Management System using doubly linked lists, enabling song addition, deletion, searching, and playback. Integrated file I/O for persistent data storage and implemented a stack-based history for recently played songs, along with sorting for better playlist organization.`,
+    // demoLink: "https://github.com/Tushar-Shinde31/Music-Player-in-DSA",
     stacks: [
       {
         name: "React Native",

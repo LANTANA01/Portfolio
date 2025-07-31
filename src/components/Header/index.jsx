@@ -32,13 +32,16 @@ const Header = () => {
               <div className="typing-cursor"></div>
             </div>
             <p className='text__muted description text-sm md:text-base mb-6'>
-           A passionate and results-driven software engineer with a deep love for crafting elegant and efficient solutions to complex problems. I thrive on turning ideas into reality through code and innovation</p>
+           A passionate and results-driven software/Devops engineer with a deep love for crafting elegant and efficient solutions to complex problems. I thrive on turning ideas into reality through code and innovation</p>
             <div className="button-group flex flex-col md:flex-row gap-4">
               <a href="https://github.com/LANTANA01" className="btn btn-primary w-full md:w-auto text-center px-6 py-2">
                 ⭐ Star Me On Github
               </a>
               <a href="https://drive.google.com/file/d/1esXGgl2n0q6ocxaJ7nkWNkXnYYG0hBcC/view?usp=sharing" className="btn btn-secondary w-full md:w-auto text-center px-6 py-2">
                 See My Resume
+              </a>
+               <a href="https://docs.google.com/document/d/15DGjXuY2F3g8ADON2v5A9salKHHzJ3QwPB75XzIHbqQ/edit?usp=sharing" className="btn btn-secondary w-full md:w-auto text-center px-6 py-2">
+                Elevator Pitch
               </a>
             </div>
             <Facts/>
