@@ -42,7 +42,7 @@ const Contact = () => {
             </div>
             <SocialHandles/>
           </div>
-          <form>
+          <form className='formsize'>
             <input type="text"
             placeholder='Your full name'
             name='name'
