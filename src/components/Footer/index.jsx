@@ -23,7 +23,7 @@ const Footer = () => {
       </ul>
       <SocialHandles/>
       <div className='copyright'>
-        <h3>Copyright &copy; All right reserved - 2025 </h3>
+        <h3>&copy; All right reserved - 2025 </h3>
         <p className='text__muted'>Built with love by</p>
       </div>
       <div className='base__logo'>
